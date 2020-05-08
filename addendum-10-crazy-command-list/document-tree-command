@@ -1,0 +1,6 @@
+
+| Command | Description |
+| --- | --- |
+| `tree` | lists the files in the current directory |
+| **Examples** | `tree -f -i`, `tree -a `, `tree -d` |
+| **Common Options** | `-a` All files are printed, even hidden ones <br> `-f` prints the full path prefix for each file <br> `-i` tree will not print the indentation lines |
