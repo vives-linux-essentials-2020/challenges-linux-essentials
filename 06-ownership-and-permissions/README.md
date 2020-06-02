@@ -32,7 +32,7 @@ Now execute the `su davy` command from the superuser session. Take a screenshot 
 
 ## Auth.log
 
-What does the file `/log/var/auth.log` track? Provide an example that shows entries being added to the log after you executed the commands. Provide some screenshots.
+What does the file `/var/log/auth.log` track? Provide an example that shows entries being added to the log after you executed the commands. Provide some screenshots.
 
 ## Basic Permissions
 
